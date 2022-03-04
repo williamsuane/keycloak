@@ -1,1 +1,1 @@
-FROM quay.io/keycloak/keycloak-x:16.1.1
+FROM quay.io/keycloak/keycloak:15.0.1
